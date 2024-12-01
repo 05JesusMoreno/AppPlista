@@ -1,0 +1,20 @@
+.Header{
+    padding: 2%;
+    text-align: center;
+    background: red;
+    font-size: x-large;
+}
+
+.content{
+    background-color: chartreuse;
+}
+.content p {
+    text-align: center;
+    font-size: x-large;
+    color: black;
+}
+.btn{
+    background-color: blue;
+    padding: 2%;
+    display: flex;
+}
